@@ -6,11 +6,15 @@ MS Student, Renmin University of China
 - [Github](https://github.com/dong03/)
 
 ## **About Me**
-I'm a second year MS student in the Information School of Renmin University, advised by Prof. [Xirong Li](http://lixirong.net/) and Prof. Jieping Xu.
+- I'm a second year MS student in the Information School at Renmin University of China.
 
-I received a BE degree in Automation at Beihang University.
+- I'm advised by Prof. [Xirong Li](http://lixirong.net/) and Prof. Jieping Xu. 
 
-My research interests are Computer Vision, Media Forensics and Cross-Modal Computing.
+- My research interests are Computer Vision, Media Forensics and Cross-Modal Computing.
+
+- I received a BE degree in Automation at Beihang University.
+
+
 
 ## **Research Experience**
 ### AI & Media Computing Lab at RUC

@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Chengbo Dong (董程博)
+MS Student, Renmin University of China
+
 
 You can use the [editor on GitHub](https://github.com/dong03/dcb.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

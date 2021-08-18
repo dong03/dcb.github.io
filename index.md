@@ -6,7 +6,7 @@ MS Student, Renmin University of China
 - [Github](https://github.com/dong03/)
 
 ## **About Me**
-- I'm a second year MS student in the Information School at Renmin University of China.
+- I'm a second year MS student in the [Information School](http://info.ruc.edu.cn/) at Renmin University of China.
 
 - I'm advised by Prof. [Xirong Li](http://lixirong.net/) and Prof. Jieping Xu. 
 
@@ -50,7 +50,7 @@ AI Internship Engineer, EBG-FastAI Group, 2019.11 - 2020.03
 ## **Publications**
 - Xinru Chen; **Chengbo Dong**; Jiaqi Ji; Juan Cao; Xirong Li.  
 Image Manipulation Detection by Multi-View Multi-Scale Supervision.
-In *ICCV* , 2021. [[pdf](https://arxiv.org/abs/2104.06832/pdf)]
+In *ICCV* , 2021. [[pdf](https://arxiv.org/abs/2104.06832/pdf)] [[code](https://github.com/dong03/MVSS-Net)]
 - **Chengbo Dong**; Xinru Chen; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning. In *ACM Multimedia (Grand Challenge Track)*, 2021. 
 
 

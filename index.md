@@ -24,7 +24,10 @@ Graduate Student,             2020.09 - Till Now
 - Video Captioning \& Video-Text Retrieval
 
     - Paper accepted by ACMMM.
+
     - 2021 *ACMMM Grand Challenge: Pretraining for video captioning*, top 3
+    
+    - 2021 *TREC Video Retrieval Evaluation (TRECVID) VTT*, top 2
 
 ### Cross-Modal Computing Lab at ICT, CAS
 Visiting Student, 2020.06 - 2020.12

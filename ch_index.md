@@ -1,18 +1,18 @@
-# **Chengbo Dong**
-[[中文版]](ch_index.md) - 
-[[Email]](dongchengbo@ruc.edu.cn) - 
-[[CV]](https://raw.githubusercontent.com/dong03/dong03.github.io/7b82fe76b2ea0311992dce2c80da136456837f64/Chengbo_Dong_CV.pdf) - 
-[[Github]](https://github.com/dong03/)
+# **董程博**
+[[English Version]](index.md)
 
-## **About Me**
-- I'm a second year MS student in the [Information School](http://info.ruc.edu.cn/) at Renmin University of China.
+硕士研究生, 中国人民大学
 
-- I'm advised by Prof. [Xirong Li](http://lixirong.net/) and Prof. Jieping Xu. 
+[[邮箱]](dongchengbo@ruc.edu.cn) - [[简历]](https://raw.githubusercontent.com/dong03/dong03.github.io/7b82fe76b2ea0311992dce2c80da136456837f64/Chengbo_Dong_CV.pdf) - [[Github]](https://github.com/dong03/)
 
-- My research interests are Computer Vision, Media Forensics and Cross-Modal Computing.
+## **关于我**
+- [中国人民大学信息学院](http://info.ruc.edu.cn/)在读硕士。
 
-- I received a BE degree in Automation at Beihang University.
+- 导师：[李锡荣](http://lixirong.net/)副教授和许洁萍副教授。
 
+- 研究兴趣：计算机视觉，多媒体取证，跨模态计算。
+
+- 本科毕业于北京航空航天大学，自动化科学与电气工程学院，自动化专业。
 
 
 ## **Research Experience**
@@ -20,9 +20,9 @@
 Graduate Student,             2020.09 - Till Now
 
 
-- Video Captioning & Video-Text Retrieval
+- Video Captioning \& Video-Text Retrieval
 
-    - Paper accepted by *ACMMM'21*.
+    - Paper accepted by ACMMM.
 
     - 2021 *ACMMM Grand Challenge: Pretraining for video captioning*, top 3
     
@@ -39,29 +39,24 @@ Visiting Student, 2020.06 - 2020.12
 
 - Image Manipulation Forensics：Classification and segmentation on manipulated images.
 
-    - Paper accepted by *ICCV'21*.
-    
+    - Paper accepted by ICCV 2021.
     - *Security AI Challenge: Forgery Detection on Certificate Image*, Alibaba, top11
 
 ### Megvii Inc.
 AI Internship Engineer, EBG-FastAI Group, 2019.11 - 2020.03
 
 - FollowMe robot：An Exhibition robot involving tracking and ReID
-
 - PigCount：A detection based pig counting solution solving overlapping
-
-- Dog Noseprint：1:1 alignment & 1:N retrieval based on noseprint feature
+- Dog Noseprint：1:1 alignment \& 1:N retrieval based on noseprint feature
 
 ## **Publications**
-- Xinru Chen; **Chengbo Dong**; Jiaqi Ji; Juan Cao; Xirong Li. Image Manipulation Detection by Multi-View Multi-Scale Supervision.
-In *ICCV* , 2021.(co-author). [[pdf](https://arxiv.org/abs/2104.06832/pdf)] [[code](https://github.com/dong03/MVSS-Net)] [[中文速览]](https://mp.weixin.qq.com/s/Jkq2gQX-_Ss3kziIJU-oEg)
-
+- Xinru Chen; **Chengbo Dong**; Jiaqi Ji; Juan Cao; Xirong Li.  
+Image Manipulation Detection by Multi-View Multi-Scale Supervision.
+In *ICCV* , 2021. [[pdf](https://arxiv.org/abs/2104.06832/pdf)] [[code](https://github.com/dong03/MVSS-Net)]
 - **Chengbo Dong**; Xinru Chen; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning. In *ACM Multimedia (Grand Challenge Track)*, 2021. 
 
 
-## **Honor**
+## Honor
 - Outstanding Graduate of Beijing, 2020
-
 - Merit Student of Beijing, 2019
-
 - Merit Student of Beijing, 2018

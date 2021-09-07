@@ -1,6 +1,5 @@
 # **Chengbo Dong**
 [[中文版]](ch_index.md) - 
-[[Email]](dongchengbo@ruc.edu.cn) - 
 [[CV]](https://raw.githubusercontent.com/dong03/dong03.github.io/7b82fe76b2ea0311992dce2c80da136456837f64/Chengbo_Dong_CV.pdf) - 
 [[Github]](https://github.com/dong03/)
 
@@ -13,7 +12,7 @@
 
 - I received a BE degree in Automation at Beihang University.
 
-
+- Contact me at dongchengbo@ruc.edu.cn
 
 ## **Research Experience**
 ### - AI & Media Computing Lab at RUC

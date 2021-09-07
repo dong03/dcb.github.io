@@ -1,6 +1,5 @@
 # **董程博**
 [[English Version]](index.md) - 
-[[邮箱]](dongchengbo@ruc.edu.cn) - 
 [[简历]](https://raw.githubusercontent.com/dong03/dong03.github.io/7b82fe76b2ea0311992dce2c80da136456837f64/Chengbo_Dong_CV.pdf) - 
 [[Github]](https://github.com/dong03/)
 
@@ -13,6 +12,7 @@
 
 - 本科毕业于北京航空航天大学，自动化科学与电气工程学院，自动化专业。
 
+- 邮箱：dongchengbo@ruc.edu.cn
 
 ## **研究经历**
 ### - 人工智能和多媒体计算实验室，中国人民大学

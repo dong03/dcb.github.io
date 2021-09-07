@@ -16,34 +16,34 @@
 
 
 ## **Research Experience**
-### AI & Media Computing Lab at RUC
+### - AI & Media Computing Lab at RUC
 Graduate Student,             2020.09 - Till Now
 
 
 - Video Captioning & Video-Text Retrieval
 
-    - Paper accepted by *ACMMM'21*.
+    - One paper accepted by *ACMMM'21*.
 
     - 2021 *ACMMM Grand Challenge: Pretraining for video captioning*, top 3
     
     - 2021 *TREC Video Retrieval Evaluation (TRECVID) VTT*, top 2
 
-### Cross-Modal Computing Lab at ICT, CAS
+### - Cross-Modal Computing Lab at ICT, CAS
 Visiting Student, 2020.06 - 2020.12
 
 - DeepFake Detection：Classification on authentic/deepfake-tampered/GAN-generated human faces
 
     - *Faceforensics Benchmark*,  top20
 
-    - *China Artificial Competition*, Group B, top2
+    - *2020 China Artificial Competition*, Group B, top2
 
 - Image Manipulation Forensics：Classification and segmentation on manipulated images.
 
-    - Paper accepted by *ICCV'21*.
-    
+    - One Paper accepted by *ICCV'21*.
+
     - *Security AI Challenge: Forgery Detection on Certificate Image*, Alibaba, top11
 
-### Megvii Inc.
+### - Megvii Inc.
 AI Internship Engineer, EBG-FastAI Group, 2019.11 - 2020.03
 
 - FollowMe robot：An Exhibition robot involving tracking and ReID

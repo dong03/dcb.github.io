@@ -23,7 +23,7 @@ Graduate Student,             2020.09 - Till Now
 
     - One paper accepted by *ACMMM'21*.
 
-    - 2021 *ACMMM Grand Challenge: Pretraining for video captioning*, top 3
+    - *ACMMM'21 Grand Challenge: Pretraining for video captioning*, top 3
     
     - 2021 *TREC Video Retrieval Evaluation (TRECVID) VTT*, top 2
 

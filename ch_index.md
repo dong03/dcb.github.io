@@ -10,7 +10,7 @@
 
 - 研究兴趣：计算机视觉，多媒体取证，跨模态计算。
 
-- 本科毕业于北京航空航天大学，自动化科学与电气工程学院，自动化专业。
+- 本科毕业于北京航空航天大学，自动化科学与电气工程学院，自动化。
 
 - 邮箱：dongchengbo@ruc.edu.cn
 
@@ -23,7 +23,7 @@
 
     - 一篇文章被*ACMMM'21*录用
 
-    - 2021 *ACMMM Grand Challenge: Pretraining for video captioning*, top 3
+    - *ACMMM'21 Grand Challenge: Pretraining for video captioning*, top 3
     
     - 2021 *TREC Video Retrieval Evaluation (TRECVID) VTT*, top 2
 

@@ -23,7 +23,7 @@
 
     - 一篇文章被*ACMMM'21*录用
 
-    - *ACMMM'21 Grand Challenge: Pretraining for video captioning*, top 3
+    - *MM'21 Grand Challenge: Pretraining for video captioning*, top 3
     
     - 2021 *TREC Video Retrieval Evaluation (TRECVID) VTT*, top 2
 

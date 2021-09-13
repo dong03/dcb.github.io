@@ -1,6 +1,6 @@
 # **董程博**
 [[English Version]](index.md) - 
-[[简历]](https://raw.githubusercontent.com/dong03/dong03.github.io/7b82fe76b2ea0311992dce2c80da136456837f64/Chengbo_Dong_CV.pdf) - 
+[[简历]](Chengbo_Dong_CV.pdf) - 
 [[Github]](https://github.com/dong03/)
 
 ## **关于我**

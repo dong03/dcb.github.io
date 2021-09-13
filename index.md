@@ -1,6 +1,6 @@
 # **Chengbo Dong**
 [[中文版]](ch_index.md) - 
-[[CV]](https://raw.githubusercontent.com/dong03/dong03.github.io/7b82fe76b2ea0311992dce2c80da136456837f64/Chengbo_Dong_CV.pdf) - 
+[[CV]](Chengbo_Dong_CV.pdf) - 
 [[Github]](https://github.com/dong03/)
 
 ## **About Me**

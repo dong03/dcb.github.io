@@ -4,7 +4,7 @@
 [[Github]](https://github.com/dong03/)
 
 ## **About Me**
-- I'm a second year MS student Computer Science at the [Information School](http://info.ruc.edu.cn/) at Renmin University of China.
+- I'm a second year MS student in Computer Science at the [Information School](http://info.ruc.edu.cn/) at Renmin University of China.
 
 - I'm advised by Prof. [Xirong Li](http://lixirong.net/) and Prof. Jieping Xu. 
 

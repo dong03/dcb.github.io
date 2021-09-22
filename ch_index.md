@@ -53,10 +53,11 @@
 - 狗鼻纹识别：基于狗鼻纹特征的1:1 匹配 & 1:N 召回方案
 
 ## **出版物**
-- Xinru Chen; **Chengbo Dong**; Jiaqi Ji; Juan Cao; Xirong Li. Image Manipulation Detection by Multi-View Multi-Scale Supervision.
+
+- Xinru Chen*; **Chengbo Dong***; Jiaqi Ji; Juan Cao; Xirong Li. Image Manipulation Detection by Multi-View Multi-Scale Supervision.
 In *ICCV* , 2021. 共同一作. [[pdf](https://arxiv.org/abs/2104.06832/pdf)] [[code](https://github.com/dong03/MVSS-Net)] [[中文速览]](https://mp.weixin.qq.com/s/Jkq2gQX-_Ss3kziIJU-oEg)
 
-- **Chengbo Dong**; Xinru Chen; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning. In *ACM Multimedia (Grand Challenge Track)*, 2021. [[pdf]](https://www.researchgate.net/publication/353937379_Multi-Level_Visual_Representation_with_Semantic-Reinforced_Learning_for_Video_Captioning)
+- **Chengbo Dong***; Xinru Chen*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning. In *ACM Multimedia (Grand Challenge Track)*, 2021. 共同一作. [[pdf]](https://www.researchgate.net/publication/353937379_Multi-Level_Visual_Representation_with_Semantic-Reinforced_Learning_for_Video_Captioning)
 
 ## **服务**
 ### 审稿

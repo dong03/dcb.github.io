@@ -55,9 +55,9 @@
 ## **出版物**
 
 - Xinru Chen\*; **Chengbo Dong**\*; Jiaqi Ji; Juan Cao; Xirong Li. Image Manipulation Detection by Multi-View Multi-Scale Supervision.
-In *ICCV* , 2021. 共同一作. [[pdf](https://arxiv.org/abs/2104.06832/pdf)] [[code](https://github.com/dong03/MVSS-Net)] [[中文速览]](https://mp.weixin.qq.com/s/Jkq2gQX-_Ss3kziIJU-oEg)
+In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Image_Manipulation_Detection_by_Multi-View_Multi-Scale_Supervision_ICCV_2021_paper.pdf)] [[poster](mvssnet_poster.pdf)] [[code](https://github.com/dong03/MVSS-Net)] [[YouTube](https://youtu.be/TbZSklpYkeU)] [[中文速览]](https://mp.weixin.qq.com/s/Jkq2gQX-_Ss3kziIJU-oEg) 
 
-- **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning. In *ACM Multimedia (Grand Challenge Track)*, 2021. 共同一作. [[pdf]](https://www.researchgate.net/publication/353937379_Multi-Level_Visual_Representation_with_Semantic-Reinforced_Learning_for_Video_Captioning)
+- **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning. In *ACM Multimedia (Grand Challenge Track)*, 2021. (co-author) [[pdf]](https://www.researchgate.net/publication/353937379_Multi-Level_Visual_Representation_with_Semantic-Reinforced_Learning_for_Video_Captioning) [[YouTube](https://youtu.be/jl-75Sz_QUw)]
 
 ## **服务**
 ### 审稿

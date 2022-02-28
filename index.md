@@ -15,6 +15,16 @@
 - Contact me at dongchengbo@ruc.edu.cn
 
 ## **Research Experience**
+### - Media Security Group, CRO, Alibaba Inc.
+Research Intern, 2021.12 - 2021.03
+- Restoration on Manipulated Images against Social Media Transportation
+    - Work as a plug-in preprocessing module before image manipulation forensic;
+    - Deal with manipulation under real senarios with complicated post-processing, achieving robust forencis of quality compression and re-scaling.
+- Phone Source Identification
+    - 1:N retrieval and 1:1 alignment via phone-shot-picture;
+    - Used for image leak tracing, real person authentication, stolen image identification;
+    - Show robustness to real business data collected online and generalization to unseen mobile devices.
+
 ### - AI & Media Computing Lab at RUC
 Graduate Student,             2020.09 - Till Now
 
@@ -55,13 +65,13 @@ AI Internship Engineer, EBG-FastAI Group, 2019.11 - 2020.03
 - Xinru Chen\*; **Chengbo Dong**\*; Jiaqi Ji; Juan Cao; Xirong Li. Image Manipulation Detection by Multi-View Multi-Scale Supervision.
 In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Image_Manipulation_Detection_by_Multi-View_Multi-Scale_Supervision_ICCV_2021_paper.pdf)] [[poster](mvssnet_poster.pdf)] [[code](https://github.com/dong03/MVSS-Net)] [[YouTube](https://youtu.be/TbZSklpYkeU)] [[中文速览]](https://mp.weixin.qq.com/s/Jkq2gQX-_Ss3kziIJU-oEg) 
 
-- **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning. In *ACM Multimedia (Grand Challenge Track)*, 2021. (co-author) [[pdf]](https://www.researchgate.net/publication/353937379_Multi-Level_Visual_Representation_with_Semantic-Reinforced_Learning_for_Video_Captioning) [[YouTube](https://youtu.be/jl-75Sz_QUw)]
+- **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning. In *ACM Multimedia (Grand Challenge Track)*, 2021. (co-author) [[paper]](https://dl.acm.org/doi/10.1145/3474085.3479217) [[YouTube](https://youtu.be/jl-75Sz_QUw)]
 
 ## **Services**
 ### Reviewer
 - CVPR 2021
 - ICCV 2021
-- ACMMM 2021
+- ACMMM 2021, 2022
 
 ### Teaching Assistant
 - practical python programming, (2021'autum, RUC, 2122121018666001)

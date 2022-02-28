@@ -17,7 +17,7 @@
 ## **Research Experience**
 ### - Media Security Group, CRO, Alibaba Inc.
 Research Intern, 2021.12 - 2021.03
-- Restoration on Manipulated Images against Social Media Transportation
+- Restoration on Manipulated Images against Social Media Transmission
     - Work as a plug-in preprocessing module before image manipulation forensic;
     - Deal with manipulation under real senarios with complicated post-processing, achieving robust forencis of quality compression and re-scaling.
 - Phone Source Identification

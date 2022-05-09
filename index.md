@@ -1,7 +1,6 @@
 # **Chengbo Dong**
-[[中文版]](ch_index.md) - 
-[[CV]](Chengbo_Dong_CV.pdf) - 
-[[Github]](https://github.com/dong03/)
+[[中文版]](ch_index.md) - [[Github]](https://github.com/dong03/)
+<!-- [[CV]](Chengbo_Dong_CV.pdf) -  -->
 
 ## **About Me**
 - I'm a second year MS student in Computer Science at the [Information School](http://info.ruc.edu.cn/) at Renmin University of China.
@@ -27,7 +26,10 @@ Research Intern, 2021.12 - 2021.03
 
 ### - AI & Media Computing Lab at RUC
 Graduate Student,             2020.09 - Till Now
-
+- Openset video object detection
+    - A real-world video object detection dataset, consisting of self-collected 200k+ short video from Bilibili;
+    - Wealkly supervised via bullet chat / title / partition;
+    - Distillation \& pseudo-label using cross-modal pretrained CLIP.
 
 - Video Captioning & Video-Text Retrieval
 
@@ -69,9 +71,8 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
 
 ## **Services**
 ### Reviewer
-- CVPR 2021
-- ICCV 2021
-- ACMMM 2021, 2022
+- Conference: CVPR21, ICCV21, ECCV22, ACMMM21,22
+- Journal: ACM-TOMM
 
 ### Teaching Assistant
 - practical python programming, (2021'autum, RUC, 2122121018666001)

@@ -1,7 +1,7 @@
 # **董程博**
-[[English Version]](index.md) - 
-[[简历]](Chengbo_Dong_CV.pdf) - 
-[[Github]](https://github.com/dong03/)
+[[English Version]](index.md) - [[Github]](https://github.com/dong03/)
+<!-- [[简历]](Chengbo_Dong_CV.pdf) -  -->
+
 
 ## **关于我**
 - [中国人民大学信息学院](http://info.ruc.edu.cn/)在读硕士。
@@ -24,11 +24,16 @@
 - 相机来源识别
     - 根据手机拍摄的图片获取相机指纹，实现1vN来源分类和1v1匹配校验；
     - 用于图片泄露溯源、实人认证、盗图识别等场景；
-    - 对线上采集的真实业务数据有鲁棒性，且对未见手机型号有一定泛化性
+    - 对线上采集的真实业务数据有鲁棒性，且对未见手机型号有一定泛化性。
 
 
 ### - 人工智能和多媒体计算实验室，中国人民大学
 研究生,             2020.09 - 至今
+
+- 开放世界视频目标检测
+    - 自收集真实世界视频目标检测数据集：B站200k+短视频；
+    - 利用弹幕 / 标题 / 分区等信息弱监督；
+    - 使用跨模态预训练模型CLIP对模型特征蒸馏，并提供伪标签；
 
 
 - 视频描述生成 & 视频文本检索
@@ -74,9 +79,8 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
 
 ## **服务**
 ### 审稿
-- CVPR 2021
-- ICCV 2021
-- ACMMM 2021, 2022
+- 会议: CVPR21, ICCV21, ECCV22, ACMMM21,22
+- 期刊: ACM-TOMM
 
 ### 助教
 - 实用python编程, (2021秋, RUC, 2122121018666001)

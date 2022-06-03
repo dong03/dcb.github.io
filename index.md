@@ -13,7 +13,18 @@
 
 - Contact me at dongchengbo@ruc.edu.cn
 
+## **Publications**
+- **Chengbo Dong**\*; Xinru Chen\*; Ruohan Hu; Juan Cao; Xirong Li. "MVSS-Net: Image Manipulation Detection by Multi-View Multi-Scale Supervision." In *IEEE Transactions on
+Pattern Analysis and Machine Intelligence*.(co-author). 
+
+- Xinru Chen\*; **Chengbo Dong**\*; Jiaqi Ji; Juan Cao; Xirong Li. "Image Manipulation Detection by Multi-View Multi-Scale Supervision."
+In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Image_Manipulation_Detection_by_Multi-View_Multi-Scale_Supervision_ICCV_2021_paper.pdf)] [[poster](mvssnet_poster.pdf)] [[code](https://github.com/dong03/MVSS-Net)] [[YouTube](https://youtu.be/TbZSklpYkeU)] [[中文速览]](https://mp.weixin.qq.com/s/Jkq2gQX-_Ss3kziIJU-oEg) 
+
+- **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. "Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning." In *ACM Multimedia (Grand Challenge Track)*, 2021. (co-author) [[paper]](https://dl.acm.org/doi/10.1145/3474085.3479217) [[YouTube](https://youtu.be/jl-75Sz_QUw)]
+
 ## **Research Experience**
+<!-- ### - BingAds & PIQ, STCA, Microsoft Inc.
+Software Development Engineer Intern, 2022.05 - till now -->
 ### - Media Security Group, CRO, Alibaba Inc.
 Research Intern, 2021.12 - 2021.03
 - Restoration on Manipulated Images against Social Media Transmission
@@ -63,11 +74,6 @@ AI Internship Engineer, EBG-FastAI Group, 2019.11 - 2020.03
 
 - Dog Noseprint：1:1 alignment & 1:N retrieval based on noseprint feature
 
-## **Publications**
-- Xinru Chen\*; **Chengbo Dong**\*; Jiaqi Ji; Juan Cao; Xirong Li. Image Manipulation Detection by Multi-View Multi-Scale Supervision.
-In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Image_Manipulation_Detection_by_Multi-View_Multi-Scale_Supervision_ICCV_2021_paper.pdf)] [[poster](mvssnet_poster.pdf)] [[code](https://github.com/dong03/MVSS-Net)] [[YouTube](https://youtu.be/TbZSklpYkeU)] [[中文速览]](https://mp.weixin.qq.com/s/Jkq2gQX-_Ss3kziIJU-oEg) 
-
-- **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning. In *ACM Multimedia (Grand Challenge Track)*, 2021. (co-author) [[paper]](https://dl.acm.org/doi/10.1145/3474085.3479217) [[YouTube](https://youtu.be/jl-75Sz_QUw)]
 
 ## **Services**
 ### Reviewer

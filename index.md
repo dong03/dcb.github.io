@@ -1,6 +1,6 @@
 # **Chengbo Dong**
-[[中文版]](ch_index.md) - [[Github]](https://github.com/dong03/)
-<!-- [[CV]](Chengbo_Dong_CV.pdf) -  -->
+[[中文版]](ch_index.md) - [[Github]](https://github.com/dong03/) -
+[[CV]](Chengbo_Dong_CV.pdf)
 
 ## **About Me**
 - I'm a second year MS student in Computer Science at the [Information School](http://info.ruc.edu.cn/) at Renmin University of China.

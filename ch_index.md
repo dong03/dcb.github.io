@@ -1,6 +1,5 @@
 # **董程博**
-[[English Version]](index.md) - [[Github]](https://github.com/dong03/)
-<!-- [[简历]](Chengbo_Dong_CV.pdf) -  -->
+[[English Version]](index.md) - [[Github]](https://github.com/dong03/) - [[简历]](Chengbo_Dong_CV.pdf)
 
 
 ## **关于我**
@@ -52,6 +51,7 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
 ### - BingAds，微软亚洲互联网工程院
 软件开发实习生（SDE Intern），至今
 - 广告数据的大规模跨模态预训练及微调
+
 ### - 媒体安全技术团队-CRO线，阿里巴巴
 研究型实习生（RI）,  2021.12 - 2022.03
 - 篡改图片的社交媒体传输信道恢复
@@ -63,8 +63,6 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
     - 用于图片泄露溯源、实人认证、盗图识别等场景；
     - 对线上采集的真实业务数据有鲁棒性，且对未见手机型号有一定泛化性。
 均获批阿里创新提案
-
-
 
 
 ### - 北京旷视科技有限公司.

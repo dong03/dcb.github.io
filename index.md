@@ -3,7 +3,7 @@
 [[CV]](Chengbo_Dong_CV.pdf)
 
 ## **About Me**
-- I'm a second year MS student in Computer Science at the [Information School](http://info.ruc.edu.cn/) at Renmin University of China.
+- I'm a third year MS student in Computer Science at the [Information School](http://info.ruc.edu.cn/) at Renmin University of China.
 
 - I'm advised by Prof. [Xirong Li](http://lixirong.net/) and Prof. Jieping Xu. 
 
@@ -15,7 +15,10 @@
 
 ## **Publications**
 - **Chengbo Dong**\*; Xinru Chen\*; Ruohan Hu; Juan Cao; Xirong Li. "MVSS-Net: Image Manipulation Detection by Multi-View Multi-Scale Supervision." In *IEEE Transactions on
-Pattern Analysis and Machine Intelligence*, 2022.[paper](https://ieeexplore.ieee.org/document/9789576). 
+Pattern Analysis and Machine Intelligence*, 2022.[paper](https://ieeexplore.ieee.org/document/9789576).<a href="https://github.com/dong03/MVSS-Net/stargazers">
+    <img src="https://img.shields.io/github/stars/dong03/MVSS-Net.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a> 
 
 - Xinru Chen\*; **Chengbo Dong**\*; Jiaqi Ji; Juan Cao; Xirong Li. "Image Manipulation Detection by Multi-View Multi-Scale Supervision."
 In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Image_Manipulation_Detection_by_Multi-View_Multi-Scale_Supervision_ICCV_2021_paper.pdf)] [[poster](mvssnet_poster.pdf)] [[code](https://github.com/dong03/MVSS-Net)] [[YouTube](https://youtu.be/TbZSklpYkeU)] [[中文速览]](https://mp.weixin.qq.com/s/Jkq2gQX-_Ss3kziIJU-oEg) 

@@ -16,18 +16,29 @@
 ## **出版物**
 
 - **Chengbo Dong**\*; Xinru Chen\*; Ruohan Hu; Juan Cao; Xirong Li. "MVSS-Net: Image Manipulation Detection by Multi-View Multi-Scale Supervision." In *IEEE Transactions on
-Pattern Analysis and Machine Intelligence*, 2022.[paper](https://ieeexplore.ieee.org/document/9789576)<a href="https://github.com/dong03/MVSS-Net/stargazers">
-    <img src="https://img.shields.io/github/stars/dong03/MVSS-Net.svg?colorA=orange&colorB=orange&logo=github"
-         alt="GitHub stars">
-  </a> . 
+Pattern Analysis and Machine Intelligence*, 2022.[paper](https://ieeexplore.ieee.org/document/9789576) 
 
 - Xinru Chen\*; **Chengbo Dong**\*; Jiaqi Ji; Juan Cao; Xirong Li. "Image Manipulation Detection by Multi-View Multi-Scale Supervision."
 In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Image_Manipulation_Detection_by_Multi-View_Multi-Scale_Supervision_ICCV_2021_paper.pdf)] [[poster](mvssnet_poster.pdf)] [[code](https://github.com/dong03/MVSS-Net)] [[YouTube](https://youtu.be/TbZSklpYkeU)] [[中文速览]](https://mp.weixin.qq.com/s/Jkq2gQX-_Ss3kziIJU-oEg) 
 
 - **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. "Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning." In *ACM Multimedia (Grand Challenge Track)*, 2021. (co-author) [[paper]](https://dl.acm.org/doi/10.1145/3474085.3479217) [[YouTube](https://youtu.be/jl-75Sz_QUw)]
 
+## **实践项目**
+
+- [MVSS-Net official code](https://github.com/dong03/MVSS-Net)<a href="https://github.com/dong03/MVSS-Net/stargazers">
+    <img src="https://img.shields.io/github/stars/dong03/MVSS-Net.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a> . 
+- [ERNIEVIL2 Pytorch版本](https://github.com/dong03/ERNIEVIL2-pytorch)<a href="https://github.com/dong03/ERNIEVIL2-pytorch/stargazers">
+    <img src="https://img.shields.io/github/stars/dong03/ERNIEVIL2-pytorch.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a> . 
+- [校招面试储备](https://github.com/dong03/CV_Interview)<a href="https://github.com/dong03/CV_Interview/stargazers">
+    <img src="https://img.shields.io/github/stars/dong03/CV_Interview.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a> . 
 ## **研究与实习经历**
-### - 人工智能和多媒体计算实验室，中国人民大学
+### *人工智能和多媒体计算实验室，中国人民大学*
 研究生,             2020.09 - 至今
 
 - 跨模态计算
@@ -51,11 +62,11 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
         - 中科院计算所跨模态计算实验室访问学生
 
 
-### - BingAds，微软亚洲互联网工程院
+###  *BingAds，微软亚洲互联网工程院*
 软件开发实习生（SDE Intern），至今
 - 广告数据的大规模跨模态预训练及微调
 
-### - 媒体安全技术团队-CRO线，阿里巴巴
+### *媒体安全技术团队-CRO线，阿里巴巴*
 研究型实习生（RI）,  2021.12 - 2022.03
 - 篡改图片的社交媒体传输信道恢复
     - 作为前处理模块恢复被社交媒体传输破坏的取证特征；
@@ -68,7 +79,7 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
 均获批阿里创新提案
 
 
-### - 北京旷视科技有限公司.
+### *北京旷视科技有限公司.*
 实习算法工程师, EBG-FastAI团队, 2019.11 - 2020.03
 
 - 跟随机器人：利用检测-跟踪方法应对重识别的会展机器人
@@ -81,7 +92,7 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
 ## **服务**
 ### 审稿
 - 会议: CVPR21, ICCV21, ECCV22, ACMMM21,22
-- 期刊: ACM-TOMM
+- 期刊: ACM-TOMM, IET-CVI
 
 ### 助教
 - 实用python编程, (2021秋, RUC, 2122121018666001)

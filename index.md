@@ -25,9 +25,24 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
 
 - **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. "Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning." In *ACM Multimedia (Grand Challenge Track)*, 2021. (co-author) [[paper]](https://dl.acm.org/doi/10.1145/3474085.3479217) [[YouTube](https://youtu.be/jl-75Sz_QUw)]
 
-## **Research Experience**
 
-### - AI & Media Computing Lab at RUC
+## **Selected Projects**
+
+- [MVSS-Net official code](https://github.com/dong03/MVSS-Net)<a href="https://github.com/dong03/MVSS-Net/stargazers">
+    <img src="https://img.shields.io/github/stars/dong03/MVSS-Net.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a> . 
+- [ERNIEVIL2 Pytorch version](https://github.com/dong03/ERNIEVIL2-pytorch)<a href="https://github.com/dong03/ERNIEVIL2-pytorch/stargazers">
+    <img src="https://img.shields.io/github/stars/dong03/ERNIEVIL2-pytorch.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a> . 
+- [Tips for interview](https://github.com/dong03/CV_Interview)<a href="https://github.com/dong03/CV_Interview/stargazers">
+    <img src="https://img.shields.io/github/stars/dong03/CV_Interview.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a> . 
+## **Research Experiences**
+
+### *AI & Media Computing Lab at RUC*
 Graduate Student,             2020.09 - Till Now
 - Cross-modal computing
     - Video Captioning & Video-Text Retrieval
@@ -58,12 +73,12 @@ Graduate Student,             2020.09 - Till Now
 
 
 
-### - BingAds, STCA, Microsoft Inc.
+### *BingAds, STCA, Microsoft Inc.*
 Software Development Engineer Intern,  Till Now
 - Cross-modal pretrain and finetune on Ads data
 
 
-### - Media Security Group, CRO, Alibaba Inc.
+### *Media Security Group, CRO, Alibaba Inc.*
 Research Intern, 2021.12 - 2021.03
 - Restoration on Manipulated Images against Social Media Transmission
     - Work as a plug-in preprocessing module before image manipulation forensic;
@@ -74,7 +89,7 @@ Research Intern, 2021.12 - 2021.03
     - Show robustness to real business data collected online and generalization to unseen mobile devices.
 
 
-### - Megvii Inc.
+### *Megvii Inc.*
 AI Internship Engineer, EBG-FastAI Group, 2019.11 - 2020.03
 
 - FollowMe robot：An Exhibition robot involving tracking and ReID

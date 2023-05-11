@@ -23,6 +23,7 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
 
 - **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. "Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning." In *ACM Multimedia (Grand Challenge Track)*, 2021. (co-author) [[paper]](https://dl.acm.org/doi/10.1145/3474085.3479217) [[YouTube](https://youtu.be/jl-75Sz_QUw)]
 
+- Aozhu Chen; Ziyuan Wang; **Chengbo Dong**; Kaibin Tian; Ruixiang Zhao; Xun Liang; Zhanhui Kang; Xirong Li. "ChinaOpen: A Dataset for Open-world Multimodal Learning." In arxiv, 2023. [[paper]](https://arxiv.org/abs/2305.05880) [[page]](https://ruc-aimc-lab.github.io/ChinaOpen/)
 ## **实践项目**
 
 - [MVSS-Net official code](https://github.com/dong03/MVSS-Net)<a href="https://github.com/dong03/MVSS-Net/stargazers">

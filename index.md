@@ -3,13 +3,11 @@
 [[CV]](Chengbo_Dong_CV.pdf)
 
 ## **About Me**
-- I'm a third year MS student in Computer Science at the [Information School](http://info.ruc.edu.cn/) at Renmin University of China.
+- I received a MS degree in Computer Science at Renmin University of China, advied by Prof. [Xirong Li](http://lixirong.net/) and Prof. Jieping Xu. 
 
-- I'm advised by Prof. [Xirong Li](http://lixirong.net/) and Prof. Jieping Xu. 
+- I received a BE degree in Automation at Beihang University. 
 
 - My research interests are Computer Vision, Media Forensics and Cross-Modal Computing.
-
-- I received a BE degree in Automation at Beihang University.
 
 - Contact me at cb_dong@foxmail.com
 
@@ -41,10 +39,11 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
     <img src="https://img.shields.io/github/stars/dong03/CV_Interview.svg?colorA=orange&colorB=orange&logo=github"
          alt="GitHub stars">
   </a> . 
+
 ## **Research Experiences**
 
-### *AI & Media Computing Lab at RUC*
-Graduate Student,             2020.09 - Till Now
+#### *AI & Media Computing Lab at RUC*
+Graduate Student,             2020.09 - 2023.06
 - Cross-modal computing
     - Video Captioning & Video-Text Retrieval
 
@@ -53,11 +52,6 @@ Graduate Student,             2020.09 - Till Now
         - *ACMMM'21 Grand Challenge: Pretraining for video captioning*, top 3.
     
         - 2021 *TREC Video Retrieval Evaluation (TRECVID) *VTT top 2, AVS top3.
-
-    - Openset video object detection
-        - A real-world video object detection dataset, consisting of self-collected 200k+ short video from Bilibili;
-        - Wealkly supervised via bullet chat / title / partition;
-        - Distillation \& pseudo-label using cross-modal pretrained CLIP.
 
 - Media forencis
     - Image Manipulation Forensics：Classification and segmentation on manipulated images.
@@ -73,13 +67,12 @@ Graduate Student,             2020.09 - Till Now
         - A visiting student in Cross-Modal Computing Lab at ICT, CAS
 
 
-
-### *BingAds, STCA, Microsoft Inc.*
-Software Development Engineer Intern,  Till Now
+#### *BingAds, STCA, Microsoft Inc.*
+Software Development Engineer Intern,  2022.05 - 2022.10
 - Cross-modal pretrain and finetune on Ads data
 
 
-### *Media Security Group, CRO, Alibaba Inc.*
+#### *Media Security Group, CRO, Alibaba Inc.*
 Research Intern, 2021.12 - 2021.03
 - Restoration on Manipulated Images against Social Media Transmission
     - Work as a plug-in preprocessing module before image manipulation forensic;
@@ -90,25 +83,15 @@ Research Intern, 2021.12 - 2021.03
     - Show robustness to real business data collected online and generalization to unseen mobile devices.
 
 
-### *Megvii Inc.*
-AI Internship Engineer, EBG-FastAI Group, 2019.11 - 2020.03
-
-- FollowMe robot：An Exhibition robot involving tracking and ReID
-
-- PigCount：A detection based pig counting solution solving overlapping
-
-- Dog Noseprint：1:1 alignment & 1:N retrieval based on noseprint feature
-
-
 ## **Services**
-### Reviewer
+#### Reviewer
 - Conference: CVPR21, ICCV21, ECCV22, ACMMM21,22
 - Journal: ACM-TOMM
 
-### Teaching Assistant
+#### Teaching Assistant
 - practical python programming, (2021'autum, RUC, 2122121018666001)
 
-## **Honor**
+#### Honor
 - Outstanding Graduate of Beijing, 2020
 
 - Merit Student of Beijing, 2019

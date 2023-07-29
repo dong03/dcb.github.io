@@ -18,7 +18,7 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
 
 - **Chengbo Dong**\*; Xinru Chen\*; Aozhu Chen; Fan Hu; Zihan Wang; Xirong Li. "Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning." In *ACM Multimedia (Grand Challenge Track)*, 2021. (co-author) [[paper]](https://dl.acm.org/doi/10.1145/3474085.3479217) [[YouTube](https://youtu.be/jl-75Sz_QUw)]
 
-- Aozhu Chen; Ziyuan Wang; **Chengbo Dong**; Kaibin Tian; Ruixiang Zhao; Xun Liang; Zhanhui Kang; Xirong Li. "ChinaOpen: A Dataset for Open-world Multimodal Learning." In *ACM Multimedia, 2023*. [[paper]](https://arxiv.org/abs/2305.05880) [[page]](https://ruc-aimc-lab.github.io/ChinaOpen/)[[code]](https://github.com/dong03/GenerativeVideo2Text)
+- Aozhu Chen; Ziyuan Wang; **Chengbo Dong**; Kaibin Tian; Ruixiang Zhao; Xun Liang; Zhanhui Kang; Xirong Li. "ChinaOpen: A Dataset for Open-world Multimodal Learning." In arxiv, 2023. [[paper]](https://arxiv.org/abs/2305.05880) [[page]](https://ruc-aimc-lab.github.io/ChinaOpen/)
 
 ## **实践项目**
 
@@ -41,7 +41,7 @@ In *ICCV* , 2021.(co-author). [[paper](https://openaccess.thecvf.com/content/ICC
 
 - 跨模态计算
     - 视频描述生成 & 视频文本检索
-        - 两篇会议论文被*ACMMM'21 & 23*录用
+        - 一篇会议短文被*ACMMM'21*录用
         - *MM'21 Grand Challenge: Pretraining for video captioning*, top 3
         - 2021 *TREC Video Retrieval Evaluation*  (TRECVID) VTT top 2, AVS top3
 
